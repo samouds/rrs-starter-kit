@@ -1,0 +1,6 @@
+// eslint-disable-next-line
+export const actionTypes = {
+  GET_POSTS_REQUEST: 'POST/GET_POSTS_REQUEST',
+  GET_POSTS_SUCCESS: 'POST/GET_POSTS_SUCCESS',
+  GET_POSTS_FAILURE: 'POST/GET_POSTS_FAILURE'
+};
