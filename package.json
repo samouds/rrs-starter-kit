@@ -1,6 +1,6 @@
 {
   "name": "rrs-starter-kit",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "RRS Starter Kit — React web app boilerplate : React + Redux + Redux-Saga + CSS Modules",
   "repository": {
     "type": "git",
